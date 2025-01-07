@@ -3,4 +3,5 @@ Racangan suka-suki
 - Bina portfolio website
 *guna laravel
 *beli domain dan webhosting
+*Configure webserver
 - Belajar Network security
