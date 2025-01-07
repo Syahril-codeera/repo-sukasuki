@@ -4,3 +4,5 @@ Racangan suka-suki
 *guna laravel
 *beli domain dan webhosting
 *beli vps
+*Configure webserver
+- Belajar Network security
