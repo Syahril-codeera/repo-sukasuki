@@ -1,0 +1,4 @@
+Pembelajaran IT sepanjang hayat:
+- Belajar web programming sekurang-kurangnnya 1 jam sehari
+- Mendalami berkenaan GIT dalam tempoh 1 minggu
+- Konsisten belajar tryhackme setiap hari
