@@ -1,4 +1,6 @@
 Racangan suka-suki
 - Buat platform jual beli
 - Bina portfolio website
+*guna laravel
+*beli domain dan webhosting
 - Belajar Network security
